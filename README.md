@@ -76,13 +76,12 @@ Then transferring my data to PowerBI to make a dashboard :  <br/>
 
 <br />
 
-Making Dashboards on PowerBi helped make updating easier and visualization more readable 
-
 
 ![Shopping Trends - Sale Performance](https://github.com/user-attachments/assets/8913c494-e389-4d8a-9555-a417276ab5d7)
 
 ![Shopping Trend Dashboard - Market Segmentation](https://github.com/user-attachments/assets/ad1da60e-91aa-4ee2-869b-20b33ec3bac5)
 
+Making Dashboards on PowerBi helped make updating easier and visualization more readable 
 
 <br />
 </p>
