@@ -64,7 +64,7 @@ Here are all the arguments that i came up with and added. [explain why i used ra
 
 <br />
 Importing my data to excel:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 <br />
 
 I decided to put my work on Bigquery onto excel. After finishing this project i learned that it would be convenient for me to add all my tables together so it will be easier for me to use slicers and match them together better
